@@ -24,23 +24,23 @@ Maintained by @itsmelegend ❤
             [
                 [
                     InlineKeyboardButton(
-                        "♬Ɯ៩ន០៣៩ ᖲᖰ០នន០៣ន🎵", url="https://t.me/hindi_chatting_india",
+                      "✨Bot✨", url="https://t.me/@WarBotZ",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/LaylaSupport"
+                        "💬 Group", url="https://t.me/camila_suppport"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Laylalist"
+                        "stickers💖", url="https://t.me/stickersbag"
                     ),
                     InlineKeyboardButton(
-                        "❓ Commands", url="https://telegra.ph/Yuki-04-26-3"
+                        "❓ Commands", url="https://telegra.ph/camila-04-26-3"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/AlphaMusicRobot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/camilaMusicbot?startgroup=true"
                     ) 
                 ]
             ]
@@ -59,7 +59,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❓ commands", url="https://telegra.ph/Yuki-04-26-3"
+                        "❓ commands", url="https://telegra.ph/camila-04-26-3"
                     )
                 ],    
                 [    
@@ -105,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Need Help❓", url="https://t.me/Yuki_Support"
+                        "Need Help❓", url="https://t.me/camila_Support"
                     )
                 ]
             ]
