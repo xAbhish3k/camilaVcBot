@@ -9,11 +9,11 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~ filters.edited
 )
 async def start_(client: Client, message: Message):
-    await message.reply_sticker("CAACAgUAAxkBAAIp9mBtwBBZGywWEmV-WC8gcMArjusuAAKMAgACTp1xV6m-mtC1YTfoHgQ")
+    await message.reply_sticker("CAACAgUAAx0CQ8QTWQACCD9gpSGtPso-JueMmC6tCptx2H6VjAACngEAAmpqaFeIQbV46r_aFh8E")
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name}!
 \nI can play music in your group's voice chat
-Maintained by @itsmelegend ❤
+Maintained by @itsMeLegend ❤
 
 \nTo add in your group contact us at @camila_Support
 \nHit /help list of available commands.
@@ -24,23 +24,23 @@ Maintained by @itsmelegend ❤
             [
                 [
                     InlineKeyboardButton(
-                      "✨Bot✨", url="https://t.me/@WarBotZ",
+                      "✨CamilaAssistant", url="https://t.me/camilaowner",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/camila_suppport"
+                        "💬 Help Group", url="https://t.me/camila_suppport"
                     ),
                     InlineKeyboardButton(
                         "stickers💖", url="https://t.me/stickersbag"
                     ),
                     InlineKeyboardButton(
-                        "❓ Commands", url="https://telegra.ph/camila-04-26-3"
+                        "✨GitHub✨", url="http://www.github.com/War-Legend"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/camilaMusicbot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/camillaMusicbot?startgroup=true"
                     ) 
                 ]
             ]
@@ -59,7 +59,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❓ commands", url="https://telegra.ph/camila-04-26-3"
+                        "Support Group  ", url="https://t.me/camila_suppport"
                     )
                 ],    
                 [    
