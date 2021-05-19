@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         f"""<b>Hi {message.from_user.first_name}!
 \nI can play music in your group's voice chat
 Maintained by @itsMeLegend ❤
-
+Music Assistant - @camilaowner
 \nTo add in your group contact us at @camila_Support
 \nHit /help list of available commands.
  </b>""",
