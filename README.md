@@ -8,7 +8,7 @@ The easiest way to deploy this Bot
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-bluegreen)](https://replit.com/@QueenArzoo/VCPlayBot)
 
 ### Mandatory Vars.
 
