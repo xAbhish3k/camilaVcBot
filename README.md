@@ -8,14 +8,14 @@ The easiest way to deploy this Bot
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-bluegreen)](https://replit.com/@QueenArzoo/VCPlayBot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-bluegreen)](https://t.me/PyroStringSessionRobot)
 
 ### Mandatory Vars.
 
 - Some Of The Mandatory Vars Are :-
-   - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@QueenArzoo/VCPlayBot)
+   - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [Here](https://t.me/MyTelegramOrg_RoBot )
+   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [Here](https://t.me/MyTelegramOrg_RoBot)
+   - `STRING_NAME` :  Make a string session from [here](https://t.me/PyroStringSessionRobot)
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
@@ -48,41 +48,5 @@ Get STRING_NAME from here:
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
 
-## Requirements
+#[Join support](https://t.me/warbotZchat)
 
-- FFmpeg
-- Python 3.7+
-
-## Deployment
-
-### Config
-
-Copy `example.env` to `.env` and fill it with your credentials.
-
-### The good way
-
-1. Install Python requirements:
-   ```bash
-   pip install -U -r requirements.txt
-   ```
-2. Run:
-   ```bash
-   python main.py
-   ```
-
-### Docker
-
-1. Build:
-   ```bash
-   docker build -t musicplayer .
-   ```
-2. Run:
-   ```bash
-   docker run --env-file .env musicplayer
-   ```
-
-## License
-
-### GNU Affero General Public License v3.0
-
-[Read more](http://www.gnu.org/licenses/#AGPL)
