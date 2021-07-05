@@ -59,7 +59,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Support Group  ", url="https://t.me/camila_suppport"
+                        "Support Group  ", url="https://t.me/camila_support"
                     )
                 ],    
                 [    
