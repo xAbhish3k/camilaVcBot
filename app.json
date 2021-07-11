@@ -7,7 +7,7 @@
     "stack": "container",
     "env": {
         "SESSION_NAME": {
-            "description": "Session string (pyrogram)",
+            "description": "Session string (pyrogram @PyroStringSessionRobot)",
             "required": true
         },
         "BOT_TOKEN": {
