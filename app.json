@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/f204b7dd01d9c30573e25.jpg",
     "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
     "keywords": ["music", "voicechat", "telegram"],
-    "repository": "https://github.com/legend76565/camilaVcBot",
+    "repository": "https://github.com/war-legend/camilaVcBot",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
