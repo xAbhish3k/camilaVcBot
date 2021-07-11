@@ -35,7 +35,7 @@ Music Assistant - @camilaowner
                         "stickers💖", url="https://t.me/stickersbag"
                     ),
                     InlineKeyboardButton(
-                        "✨GitHub✨", url="http://www.github.com/War-Legend/camilamusic"
+                        "✨GitHub✨", url="http://www.github.com/War-Legend/camilavcbot"
                     )
                 ],
                 [
