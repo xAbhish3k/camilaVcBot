@@ -758,7 +758,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="Updates Channel",
-                   url='https://t.me/Yuki_Support')
+                   url='https://t.me/DOSTI_GROUP_1234')
              ],
              [       
                InlineKeyboardButton(
