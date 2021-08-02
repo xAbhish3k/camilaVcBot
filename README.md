@@ -48,5 +48,5 @@ Get STRING_NAME from here:
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
 
-#[Need Help Join support](https://t.me/warbotZchat)
+#[Need Help Join support](https://t.me/warbotZsupport)
 
