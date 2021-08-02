@@ -758,7 +758,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="Updates Channel",
-                   url='https://t.me/Yuki_Support')
+                   url='https://t.me/warbotzSupport')
              ],
              [       
                InlineKeyboardButton(
@@ -782,7 +782,7 @@ async def jiosaavn(client: Client, message_: Message):
             chat_id=message_.chat.id,
             reply_markup=keyboard,
             photo="final.png",
-            caption=f"Camila ᴍᴜꜱɪᴄ✯=#️⃣ Queued at position {position} , Made by Itsmelegend",
+            caption=f"Camila ᴍᴜꜱɪᴄ✯=#️⃣ Queued at position {position} , Made by @xabhish3k",
         
         )           
            
