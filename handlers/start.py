@@ -29,13 +29,13 @@ Music Assistant - @camilaowner
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Help Group", url="https://t.me/camila_support"
+                        "💬 Help Group", url="https://t.me/warbotzsupport"
                     ),
                     InlineKeyboardButton(
                         "stickers💖", url="https://t.me/stickersbag"
                     ),
                     InlineKeyboardButton(
-                        "✨GitHub✨", url="http://www.github.com/War-Legend/camilavcbot"
+                        "✨GitHub✨", url="http://www.github.com/xabhishek/camilavcbot"
                     )
                 ],
                 [
